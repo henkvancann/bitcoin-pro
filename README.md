@@ -36,7 +36,12 @@ NB: This is an ultra-early alpha version; use it at your own risk!
 * PSBT composer/editor [Planned]
 * Custom RGB schema and state transition editor [Planned]
 
-## Installation
+## Knowledge prior to start
+Don try to install `bitcoin-pro` if youŕe not familiar with:
+- Rust and Rustup on the command line - {what level?}
+- {more?}
+
+## Installation on {what platform?}
 
 Install rust language and run
 

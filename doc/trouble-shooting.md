@@ -4,7 +4,7 @@
 Please use markdown level 2 headers ->  "## HERE SOMETHING" to start an issue to the trouble shoot and level 3, 4 or 5 to trouble shoot that level 2 issue.
 
 ## The cargo install command failed. Any ideas what to do next?
-> Distilled from [issue 4](https://github.com/pandoracore/bitcoin-pro/issues/4)
+> Distilled from [issue 4](https://github.com/pandoracore/bitcoin-pro/issues/4), case was on Ubuntu 18.04
 
 Suppose this command fails:
 `$ cargo install bitcoin-pro --version 0.1.0-beta.1`
@@ -45,7 +45,7 @@ Now continue with\
 
 #### Side step rustup install
 if you haven got rustup installed, first this command:\
-`sudo snap install rustup`\
+`sudo snap install rustup`
 
 You might get:
 ```error: This revision of snap "rustup" was published using classic confinement
@@ -56,5 +56,5 @@ You might get:
        If you understand and want to proceed, repeat the command including
        --classic.
 ```
-Then perform:
-`sudo snap install rustup --classic`
+Or perform:
+`sudo snap refresh --classic rustup`
