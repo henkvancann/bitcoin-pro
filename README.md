@@ -47,7 +47,10 @@ $ cargo install bitcoin-pro --version 0.1.0-beta.1
 $ bitcoin-pro
 ```
 
-## Using
+### Trouble shooting
+See our [Trouble shooting page](./doc/trouble-shooting.md) for a styled version of aready seen issues and problems. You could also check open and closed [issues](https://github.com/pandoracore/bitcoin-pro/issues).
+
+## Use
 
 ### Main interface
 
