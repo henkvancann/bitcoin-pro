@@ -1,5 +1,8 @@
 # Troube shooting
 
+### Usage when adding items
+Please use markdown level 2 headers ->  "## HERE SOMETHING" to start an issue to the trouble shoot and level 3, 4 or 5 to trouble shoot that level 2 issue.
+
 ## The cargo install command failed. Any ideas what to do next?
 > Distilled from [issue 4](https://github.com/pandoracore/bitcoin-pro/issues/4)
 
